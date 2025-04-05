@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import pandas as pd
 import os
-#import duckdb
+import duckdb
 import time
 
 st.set_page_config(page_title="Supply Chain Dashboard", page_icon=":bar_chart:", layout="wide")
