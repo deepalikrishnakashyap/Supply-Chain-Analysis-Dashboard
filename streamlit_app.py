@@ -22,8 +22,10 @@ with st.spinner('Loading app...'):
 st.markdown(
     """
     <div style='text-align: center;'>
-        <h1 style='font-size: 5em; font-family: "Comic Sans MS", cursive, sans-serif; font-weight: 600; color: #f63366;'> Supply Chain Dashboard</h1>
-    </div>
+    <h1 style='font-size: 4em; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #1f77b4;'>
+        Supply Chain Dashboard
+    </h1>
+</div>
     """,
     unsafe_allow_html=True
 )
