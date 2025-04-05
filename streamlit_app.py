@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1wMRY_P3LCbOS9OtIOxugsd5Z-UKgMg9U
 """
 
-!pip install duckdb
+pip install duckdb
 import streamlit as st
 import plotly.graph_objects as go
 import plotly.express as px
